@@ -1,2 +1,2 @@
 # 8el-dashboard
-Private dashboard 8elements.
+Private dashboard for 8elements.
